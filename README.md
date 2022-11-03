@@ -11,4 +11,4 @@ To use it on the local web, install the project folder and use a virtual or a co
 You can use the audio dataset for your Deep Learning study, create an NN model and integrate it into Streamlit whether local or global web.
 There is the metadata on the original [page](https://urbansounddataset.weebly.com/urbansound8k.html).
 
-:star: I defined a Tensorflow model, and it classified the urban sounds within ten (10) labels. You can get to the link [urbanStreamlit](https://huggingface.co/spaces/Enise/urbanstreamlit) to review the contents.
+:star: I defined a Tensorflow model, and it classified the urban sounds within ten (10) labels. You can get to the link [urbanStreamlit](https://huggingface.co/spaces/Enise/urbanstreamlit) to review the contents and also, take steps to check the prediction of the class of an urban sound file with the Wav extension, which you will load.
