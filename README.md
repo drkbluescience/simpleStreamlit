@@ -2,7 +2,7 @@
 A Simple overview of the UrbanSound8K dataset using Streamlit's features
 
 ## Deployment
-It's a public repository so if you want to deploy it copy the main.py URL to your share.streamlit.io
+It's a public repository so if you want to deploy it copy the main.py [URL](https://github.com/drkbluescience/simpleStreamlit/blob/main/main.py) to your share.streamlit.io
 
 ## Installation
 To use it on the local web, install the project folder and use a virtual environment or a conda environment with the dependencies stated in requirements.txt
