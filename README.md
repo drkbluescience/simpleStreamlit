@@ -5,7 +5,7 @@ A Simple overview of the UrbanSound8K dataset using Streamlit's features
 It's a public repository so if you want to deploy it copy the main.py URL to your share.streamlit.io
 
 ## Installation
-To use it on a local install project folder and use a virtual environment or a conda environment with dependencies stated in requirements.txt
+To use it on the local web, install the project folder and use a virtual environment or a conda environment with the dependencies stated in requirements.txt
 
 ## Further
 You can use the audio dataset for your Deep Learning study, create an NN model and integrate it into Streamlit whether local or global web.
