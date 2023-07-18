@@ -1,5 +1,5 @@
 # simpleStreamlit
-A Simple overview of the UrbanSound8K dataset using Streamlit's features
+A simple overview of the UrbanSound8K dataset using Streamlit's features
 
 ## Deployment
 It's a public repository so if you want to deploy it copy the main.py [URL](https://github.com/drkbluescience/simpleStreamlit/blob/main/main.py) :point_up_2: to your share.streamlit.io account.
